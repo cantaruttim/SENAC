@@ -10,3 +10,15 @@ INSERT INTO
     VALUES 
     	(1, 'PICACHU', 'ELÉTRICO'),
         (2, 'CHARMANDER', 'FOGO');
+
+/*
+	sintaxe SELECT
+	select
+		<colunas>=
+	from <nome_tabela>
+*/
+
+select 
+	* 
+from pokemon 
+where cod_pokemon = 2;

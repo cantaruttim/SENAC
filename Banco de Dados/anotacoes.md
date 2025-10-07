@@ -4,10 +4,11 @@
 3. Sistemas e os Bancos de Dados
 
 ## Aulas Especiais
-- Desafios
-    1. Jogo com JavaScript
+- Desafios - Jogo em JavaScript
+- Faça a tela do jogo em .html e .css
+- Implemente a lógica em JavaScript
     2. Jogo da Cobrinha 
-        especificacoes
+        especificações
             1. Use uma lista para poder criar a cobriha
 
 # Modelo Entidade Relacionamento

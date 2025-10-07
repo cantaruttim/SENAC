@@ -12,9 +12,9 @@ INSERT INTO
         (2, 'CHARMANDER', 'FOGO');
 
 /*
-	sintaxe SELECT
+	sintaxe abstração SELECT
 	select
-		<colunas>=
+		<colunas>
 	from <nome_tabela>
 */
 
